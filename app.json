@@ -1,0 +1,12 @@
+{
+  "name": "icrop-project",
+  "displayName": "icrop-project",
+  "expo": {
+    "name": "icrop-project",
+    "slug": "icrop-project",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
